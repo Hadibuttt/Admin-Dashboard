@@ -82,7 +82,7 @@ $result=$conn->query($sql);
                             <br>
                             
                             <strong>
-    <a href="dashboard.php?user=<?php echo $user; ?>" style="float:right;">Click Here to return to dashboard!</a>
+    <a href="dashboard.php?user=<?php echo $user; ?>" style="float:right;">Click Here to return to home!</a>
 </strong>
 
                             
