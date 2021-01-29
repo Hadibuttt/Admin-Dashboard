@@ -105,7 +105,7 @@ $result=$conn->query($sql);
 <br>
 
 <strong>
-    <a href="dashboard.php?user=<?php echo $user; ?>" style="float:right;">Click Here to return to dashboard!</a>
+    <a href="dashboard.php?user=<?php echo $user; ?>" style="float:right;">Click Here to return to home!</a>
 </strong>
 
 <textarea name="1" cols="30" rows="10"><?php echo $Vision;?></textarea> 
