@@ -30,7 +30,7 @@ while($row=$result->fetch_assoc())
             </div>
             <div class="group-rom">
               <div class="first-part odd"><?php echo $Name; ?></div>
-              <div class="second-part">Hello, do you have a minute?</div>
+              <div class="second-part">Hello, do you have a second?</div>
               <div class="third-part">12:30</div>
             </div>
             <div class="group-rom">
@@ -40,7 +40,7 @@ while($row=$result->fetch_assoc())
             </div>
             <div class="group-rom">
               <div class="first-part odd"><?php echo $Name; ?></div>
-              <div class="second-part">I want you examine my summer kit.</div>
+              <div class="second-part">I want you examine my summer wardrobe.</div>
               <div class="third-part">12:32</div>
             </div>
             <div class="group-rom">
