@@ -37,7 +37,7 @@ while($row=$result->fetch_assoc())
             <section class="panel">
               <div class="panel-body">
                 <a href="mail_compose.php?user=<?php echo $user; ?>" class="btn btn-compose" style="color: #FFFF;background-color:firebrick;border-color: firebrick;">
-                  <i class="fa fa-pencil"></i>  Compose Mail
+                  <i class="fa fa-pencil"></i>  Create Mail
                   </a>
                 <ul class="nav nav-pills nav-stacked mail-nav">
                   <li class="active"><a href="inbox.php?user=<?php echo $user; ?>"> <i class="fa fa-inbox"></i> Inbox  <span class="label label-theme pull-right inbox-notification">3</span></a></li>
@@ -63,7 +63,7 @@ while($row=$result->fetch_assoc())
                   <li>
                     <a href="">
                         <img src="Cropped-Pics/Ubaid.png" class="img-circle" width="20">Ubaid
-                        <p><span class="label label-danger"> Busy</span></p>
+                        <p><span class="label label-danger">Unavailable</span></p>
                       </a>
                   </li>
                   <li>
