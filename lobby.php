@@ -59,7 +59,7 @@ while($row=$result->fetch_assoc())
                 <p><span class="text-muted">Admin :</span> <?php echo $Name; ?> | <span class="text-muted">Member :</span> <?php echo $ID; ?> | <span class="text-muted">Last Activity :</span> 15 min ago</p>
               </div>
               <div class="room-box">
-                <h5 class="text-primary"><a href="chat_room.html" style="color:firebrick;">Khobcha</a></h5>
+                <h5 class="text-primary"><a href="chat_room.html" style="color:firebrick;">Sanghat</a></h5>
                 <p>Private chat regarding current memes & Affairs.</p>
                 <p><span class="text-muted">Admin :</span> <?php echo $Name; ?> | <span class="text-muted">Member :</span> <?php echo $ID; ?> | <span class="text-muted">Last Activity :</span> 15 min ago</p>
               </div>
