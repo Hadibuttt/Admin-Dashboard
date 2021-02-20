@@ -56,19 +56,19 @@ while($row=$result->fetch_assoc())
                   </li>
                   <li>
                     <a href="">
-                        <img src="Cropped-Pics/Usman.png" class="img-circle" width="20">Usman
+                        <img src="Cropped-Pics/Usman.png" class="img-circle" width="20">Muqeet
                         <p><span class="label label-success">Available</span></p>
                       </a>
                   </li>
                   <li>
                     <a href="">
-                        <img src="Cropped-Pics/Ubaid.png" class="img-circle" width="20">Ubaid
+                        <img src="Cropped-Pics/Ubaid.png" class="img-circle" width="20">Mujadid
                         <p><span class="label label-danger">Unavailable</span></p>
                       </a>
                   </li>
                   <li>
                     <a href="">
-                        <img src="Cropped-Pics/Zubair.png" class="img-circle" width="20">Zubair
+                        <img src="Cropped-Pics/Zubair.png" class="img-circle" width="20">Tayyab
                         <p>Offline</p>
                       </a>
                   </li>
